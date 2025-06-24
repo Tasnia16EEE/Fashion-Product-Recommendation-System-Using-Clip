@@ -49,4 +49,5 @@ Prompt: "red summer dress"
 
 Results: top 5 visually/textually similar recommended watch 
 
-### Built with 💡 by Tasnia Sultana 
+
+Built with 💡 by Tasnia Sultana 
