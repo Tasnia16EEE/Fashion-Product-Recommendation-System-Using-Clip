@@ -21,7 +21,7 @@ To use the dataset:
    kaggle datasets download -d paramaggarwal/fashion-product-images-dataset
    unzip fashion-product-images-dataset.zip -d fashion_dataset
 
-🧠 Model
+## 🧠 Model
 Model: openai/clip-vit-base-patch32
 
 Framework: Hugging Face Transformers
@@ -29,7 +29,7 @@ Framework: Hugging Face Transformers
 Language: Python (PyTorch)
 
 
-🚀 How It Works
+## 🚀 How It Works
 - Load and preprocess images and metadata
 
 - Extract CLIP image embeddings from dataset
@@ -42,11 +42,11 @@ Language: Python (PyTorch)
 
 - Display top-N visually/textually similar recommendations
 
-🖼 Example
+## 🖼 Example
 Query: a watch image
 
 Prompt: "red summer dress"
 
 Results: top 5 visually/textually similar recommended watch 
 
-Built with 💡 by Tasnia Sultana 
+### Built with 💡 by Tasnia Sultana 
