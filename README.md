@@ -43,12 +43,13 @@ Language: Python (PyTorch)
 - Display top-N visually/textually similar recommendations
 
 ## 🖼 Example
-Query: a watch image
+**Query Image**  
+<img src="assets/query.png" width="200"/>
 
-Prompt: "red summer dress"
+**Prompt**: `"red watch"`
 
-Results: top 5 visually/textually similar recommended watch 
-
+**Top 5 Recommendations**  
+<img src="assets/recommendations.png" width="700"/>
 
 ---
 
